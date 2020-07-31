@@ -7,5 +7,5 @@ QrScanner is the clas performing QR code detection. Each code (location) present
 
 'qrscanner.cpp' consist the code implemented for the QR code detection.
 
-![TU](TU.png)
+![TU](TU.jpeg)
 
